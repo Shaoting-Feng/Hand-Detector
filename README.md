@@ -24,10 +24,6 @@ To get started with the Hand-Detector project, follow these steps:
    ```bash
    cd Hand-Detector
    ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
